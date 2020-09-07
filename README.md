@@ -1,2 +1,6 @@
 # arduino-lag-test
-Code originally copied from https://pastebin.com/ktqn7izx
+
+For testing input lag with the MiSTer FPGA.
+
+
+Code originally from https://pastebin.com/ktqn7izx
